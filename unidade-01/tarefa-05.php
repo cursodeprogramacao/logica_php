@@ -27,4 +27,3 @@ pegar os dados da url do site */
 
 
 
-?>

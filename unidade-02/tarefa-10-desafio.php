@@ -25,6 +25,3 @@ function salario_liquido($salario, $impostos) {
 
 
 
-
-
-?>
