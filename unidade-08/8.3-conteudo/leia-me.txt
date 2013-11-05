@@ -1,2 +1,7 @@
-Use essa pasta para criar os arquivos e escrever 
-os códigos conforme mostrado na videoaula.
+## Instruções:
+	Use essa pasta para criar os arquivos e escrever 
+	os códigos conforme mostrado na videoaula.
+
+## Conteúdo extra
+	Mais tags relacionadas a conteúdo:
+	http://www.w3schools.com/html/html_formatting.asp
